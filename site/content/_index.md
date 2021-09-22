@@ -1,6 +1,6 @@
 ---
 title: "Kentuckiana Ranch Horse Association"
-image: /img/home-jumbotron.jpg
+image: /img/title.jpg
 blurb:
     heading: Welcome to KRHA
     text: "The Kentuckiana Ranch Horse Association was created to promote interest in good ranch equine of any breed, encourage good horsemanship and sportsmanship, and provide opportunities for ranch equine riders to assemble, to compete, to meet and otherwise congregate."
